@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Yugant Hadiyal
 #### I am a python developer.
-<b>I am a python developer.</b>
+
 
 I like challenges and I am a result-oriented person. Finding new ways to contribute to the open-source community.
 Looking for opportunities in R&D in the field of bioinformatics.
