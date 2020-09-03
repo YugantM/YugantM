@@ -1,14 +1,14 @@
 
 <h4> Hey there! <img src="" width="30px"></h4>
 
-I'm [Yugant Hadiyal](https://verma-anushka.github.io/anushkaverma/), I'm an experienced full stack web developer and technical writer with a demonstrated history of working in the information technology and services industry.
+I'm [Yugant Hadiyal](https://yugantm.github.io/), I'm an experienced python developer. 
 
 ---
 
 **Currently I am working ...**
 
 - <div>
-    <img width="250" height="100" align='left' src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/images/edneed.jpg" >
+    <img width="250" height="100" align='left' src="https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.swed26.de%2Fnetzwerkpartner%2Fassoziierte-partner%2Ffraunhofer-institut-fuer-angewandte-systemtechnik-ast.html&psig=AOvVaw3K-OGT7DdqMp9HXFY4CM6c&ust=1599211461180000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMj5oIvVzOsCFQAAAAAdAAAAABAJ" >
     ... as a <strong>Software Developer Intern</strong> at EdNeed Technologies Pvt. Ltd. where I have been assisting in the (design and) development of the flagship remote education portal, Edneed.com, using the MERN tech stack.
     <br />
     <strong>View: </strong> <a href="https://edneed.com" >edneed.com</a> 
