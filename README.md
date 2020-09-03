@@ -80,8 +80,9 @@ I'm [Yugant Hadiyal](https://yugantm.github.io/), I'm an experienced python deve
 <p align="center">
   <i>Let's connect and chat! Find me on the web...</i>
   
-   [![Linkedin Badge](https://img.shields.io/badge/-anushkaverma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yuganthadiyal/)](https://www.linkedin.com/in/yuganthadiyal/) 
-   [![Medium Badge](https://img.shields.io/badge/-@v.anushka786-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@yuganthadiyal)](https://medium.com/@yuganthadiyal) 
+   [![Linkedin Badge](https://img.shields.io/badge/-yuganthadiyal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yuganthadiyal/)](https://www.linkedin.com/in/yuganthadiyal/) 
+   
+   [![Medium Badge](https://img.shields.io/badge/-@yuganthadiyal?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@yuganthadiyal)](https://medium.com/@yuganthadiyal) 
    [![Gmail Badge](https://img.shields.io/badge/-v.anushka786-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:v.anushka786@gmail.com)](mailto:v.anushka786@gmail.com)
    [![Instagram Badge](https://img.shields.io/badge/-@v_anushkaa-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/v_anushkaa/)](https://instagram.com/v_anushkaa) 
    [![Facebook Badge](https://img.shields.io/badge/-verma_anushka-036be4?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100022118525351)](https://www.facebook.com/profile.php?id=100022118525351)
