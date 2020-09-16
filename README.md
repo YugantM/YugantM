@@ -3,7 +3,7 @@
 
 
 I like challenges and I am a result-oriented person. Finding new ways to contribute to the open-source community.
-Looking for opportunities in R&D in the field of bioinformatics.
+Looking for opportunities in R&D.
 
 Skills: Python / C / C++ / AWS / Git 
 
