@@ -7,8 +7,8 @@ Looking for opportunities in R&D.
 
 Skills: Python / C / C++ / AWS / Git 
 
-- 🔭 I’m currently working on Fault classifier, Covid classifier and EEG classifier  
-- 🌱 I’m currently learning Bioinformatics 
+- 🔭 I’m currently working on error correction codes for QKD (quantum key distribution) 
+- 🌱 I’m currently learning error correction codes like LDPC and cascade
 - 💬 Ask me about Python 
 - 📫 How to reach me: hadiyalyugant@gmail.com 
 
