@@ -13,4 +13,4 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=YugantM&show_icons=true) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YugantM&layout=compact)]()
 
-![Profile views](https://gpvc.arturio.dev/YugantM)  
+![](https://komarev.com/ghpvc/?username=YugantM&style=flat-square)
