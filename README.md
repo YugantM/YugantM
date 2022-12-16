@@ -1,12 +1,6 @@
 ### Hi there 👋, my name is Yugant Hadiyal
 #### I am a python developer.
 
-
-I like challenges and I am a result-oriented person. Finding new ways to contribute to the open-source community.
-Looking for opportunities in R&D.
-
-Skills: Python / C / C++ / AWS / Git 
-
 - 🔭 I’m currently working on error correction codes for QKD (quantum key distribution) 
 - 🌱 I’m currently learning error correction codes like LDPC and cascade
 - 💬 Ask me about Python 
