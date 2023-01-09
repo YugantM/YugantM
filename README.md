@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on error correction codes for QKD (quantum key distribution) 
 - 🌱 I’m currently learning error correction codes like LDPC and cascade
-- 💬 Ask me about Python 
+- 💬 Ask me about Python, C/C++, Machine/Deep Learning, bash, and Keras
 - 📫 How to reach me: hadiyalyugant@gmail.com 
 
 
