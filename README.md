@@ -1,8 +1,8 @@
 ### Hi there 👋, my name is Yugant Hadiyal
 #### I am a python developer.
 
-- 🔭 I’m currently working on error correction codes for QKD (quantum key distribution) 
-- 🌱 I’m currently learning error correction codes like LDPC and cascade
+- 🔭 I’m currently working on ClawHelm an LLM orchestrator 
+- 🌱 I’m currently learning about knowledge graph 
 - 💬 Ask me about Python, C/C++, Machine/Deep Learning, bash, and Keras
 - 📫 How to reach me: hadiyalyugant@gmail.com 
 
